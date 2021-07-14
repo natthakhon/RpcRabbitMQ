@@ -1,0 +1,11 @@
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\bin\Debug\netcoreapp3.1\RabbitMq.Config.deps.json
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\bin\Debug\netcoreapp3.1\RabbitMq.Config.dll
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\bin\Debug\netcoreapp3.1\RabbitMq.Config.pdb
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.csproj.AssemblyReference.cache
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.AssemblyInfoInputs.cache
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.AssemblyInfo.cs
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.dll
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.pdb
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.Resource1.resources
+C:\Users\nattl\source\repos\RPC.RabbitMQ\RabbitMq.Config\obj\Debug\netcoreapp3.1\RabbitMq.Config.csproj.GenerateResource.cache
