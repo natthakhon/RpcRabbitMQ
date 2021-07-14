@@ -33,7 +33,7 @@ namespace RabbitMq.Servicer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            factory = new ConnectionFactory() { HostName = "localhost" };
+            factory = new ConnectionFactory() { HostName = RabbitMq.Config.Config.host };
             con = factory.CreateConnection();
             channel = con.CreateModel();
 

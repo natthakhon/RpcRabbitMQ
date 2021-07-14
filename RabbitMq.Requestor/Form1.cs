@@ -37,7 +37,7 @@ namespace RabbitMq.Requestor
             var sentto = RabbitMq.Config.Config.sentTo;
             var replyto = RabbitMq.Config.Config.replyTo;
 
-            factory = new ConnectionFactory() { HostName = "localhost" };
+            factory = new ConnectionFactory() { HostName = RabbitMq.Config.Config.host };
             con = factory.CreateConnection();
             channel = con.CreateModel();
             this.requestor = new Requestor<string, string>(
