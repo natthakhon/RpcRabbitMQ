@@ -23,7 +23,6 @@ namespace RabbitMq.Servicer
         {
             InitializeComponent();
             this.FormClosed += Form1_FormClosed;
-
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
@@ -40,7 +39,7 @@ namespace RabbitMq.Servicer
 
             this.servicer = new Servicer<string, string>(channel
                 , RabbitMq.Config.Config.sentTo
-                , payload =>
+                , payload =>   // once request recived, reverse the received string then return it
                 {
                     char[] chars = payload.ToCharArray();
                     char[] result = new char[chars.Length];

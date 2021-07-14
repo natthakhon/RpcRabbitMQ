@@ -61,6 +61,15 @@ namespace RabbitMq.Config {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to localhost.
+        /// </summary>
+        internal static string HOST {
+            get {
+                return ResourceManager.GetString("HOST", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to REPLYTO.
         /// </summary>
         internal static string REPLYTO {
