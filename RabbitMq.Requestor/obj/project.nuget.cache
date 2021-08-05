@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gFKyOqOIIY5cpnj0N3rUVXzgfTeri6eSDiZv5qRercGho9sA/Xeu4/kW4Oe2Z/H5qLijRmvT8LfRqGgxOJegjw==",
+  "dgSpecHash": "KcOEjGF28qdduxfcxQ+nJesAi5j3CXNCEZK/QI2Xt9TYXea7A1g3DAnXrsVfKvScMd/nzHIG8sW7Z10PgL3QvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMQ\\RabbitMq.Requestor\\RabbitMq.Requestor.csproj",
   "expectedPackageFiles": [

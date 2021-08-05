@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMq\\RabbitMq\\RabbitMq.csproj",
+      "projectUniqueName": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMQ\\RabbitMq\\RabbitMq.csproj",
       "projectName": "RabbitMq",
-      "projectPath": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMq\\RabbitMq\\RabbitMq.csproj",
+      "projectPath": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMQ\\RabbitMq\\RabbitMq.csproj",
       "packagesPath": "C:\\Users\\nattl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMq\\RabbitMq\\obj\\",
+      "outputPath": "C:\\Users\\nattl\\source\\repos\\RPC.RabbitMQ\\RabbitMq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -137,6 +137,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\nattl\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
